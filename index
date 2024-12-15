@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Página Web</h1>
+    </header>
+
+    <section>
+        <h2>Sobre mí</h2>
+        <p>Hola, mi nombre es [Tu Nombre]. Esta es mi primera página web, donde incluyo texto e imágenes.</p>
+        <img src="https://via.placeholder.com/300" alt="Imagen de ejemplo" style="width:100%; max-width: 300px;">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html>
